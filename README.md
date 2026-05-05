@@ -160,3 +160,12 @@ Modify default timer settings in the respective components:
 
 This project is licensed under the MIT License - see the [LICENSE](licensee.md) file for details.
 
+## 📄 Report & Presentation
+
+Upload your report and presentation files here for submission:
+
+- `StudyMate_Report.pdf`
+- `StudyMate_Presentation.pptx`
+
+> Add these files to the repository root and commit them to GitHub so they are included with the project.
+
